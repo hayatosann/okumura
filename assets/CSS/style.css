@@ -180,12 +180,13 @@ h3{
 .box{
     height: 600px;
     width: 31%;
+    /* padding-bottom: 50px; */
     /* border: 1px solid black; */
 }
 #reason{
     width: 80%;
     margin: 0 auto;
-    
+    padding-bottom: 50px;
 }
 .br-align{
     text-align: center;
