@@ -42,7 +42,7 @@ header{
     width: 100vw;
     height: 100vh;
     /* background-color: red; */
-    background-image: url(../original/ビーチ.jpg);
+    background-image: url(../original/beach.jpg);
     background-size: cover;
     display: flex;
     flex-direction: column;
